@@ -4,6 +4,8 @@ Sub-committee policy
 Definitions
 -----------
 
+NO DEFINITELY NOT.
+
 There are two types of sub-committee constituted under Linux Australia. One
 type of sub-committee exists either to facilitate LA's operations or is a
 project undertaken with the governance of the council. These include such
